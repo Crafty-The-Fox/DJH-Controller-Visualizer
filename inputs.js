@@ -16,15 +16,15 @@ const xboxMapping = {
 }
 
 const wiiMapping = {
-    "scratch": 3,
+    "scratch": 4,
     "minScratch": -1.5,
     "maxScratch": 1.5,
     "crossfade": 5,
     "minCrossfade": -1,
     "maxCrossfade": 1,
-    "g": 3,
-    "r": 4,
-    "b": 5,
+    "g": 0,
+    "r": 1,
+    "b": 2,
     "euph":6
 }
 
