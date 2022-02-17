@@ -17,8 +17,8 @@ const xboxMapping = {
 
 const wiiMapping = {
     "scratch": 4,
-    "minScratch": -4.5,
-    "maxScratch": 4.5,
+    "minScratch": -5.5,
+    "maxScratch": 5.5,
     "crossfade": 5,
     "minCrossfade": -1,
     "maxCrossfade": 1,
